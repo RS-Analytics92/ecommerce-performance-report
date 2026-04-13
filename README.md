@@ -1,5 +1,12 @@
 # E-commerce Performance Dashboard (Google Stack)
 
+## 🔗 Live Dashboard
+Interactive dashboard for tracking sales performance, revenue trends, and return metrics.
+
+[Open interactive dashboard](https://lookerstudio.google.com/reporting/d9e9c5d7-8869-4a04-a12f-a5dccf4a1674)
+
+---
+
 ## 📌 Project Overview
 
 This project simulates a real-world implementation of a data analytics solution for an e-commerce business.
