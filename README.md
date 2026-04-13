@@ -1,4 +1,4 @@
-# E-commerce Performance Dashboard (Google Stack)
+# E-commerce Performance Raport (Google Stack)
 
 ## 🔗 Live Dashboard
 Interactive dashboard for tracking sales performance, revenue trends, and return metrics.
